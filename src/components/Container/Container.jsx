@@ -24,11 +24,11 @@ export const Container = props => {
                 <div className="sidebar">
                     <nav className="navMenu">
                         <ul className="menu">
-                            <li><a href="#">Smartphones</a></li>
-                            <li><a href="#">Eletrodomesticos</a></li>
-                            <li><a href="#">Eletronicos</a></li>
-                            <li><a href="#">Casa</a></li>
-                            <li><a href="#">Jardins</a></li>
+                            <li><a href="/Smartphones">Smartphones</a></li>
+                            <li><a href="/Eletrodomesticos">Eletrodomesticos</a></li>
+                            <li><a href="/Eletronicos">Eletronicos</a></li>
+                            <li><a href="/Casa">Casa</a></li>
+                            <li><a href="/Jardins">Jardins</a></li>
                         </ul>
                     </nav>
                 </div>
