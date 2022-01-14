@@ -15,10 +15,10 @@ export const Container = props => {
                         <button className="buttonSearch">Pesquisar</button>
                     </div>
                     <div className="headerSignin">
-                        botao de login
+                        <button>Login</button>
                     </div>
                     <div className="headerCart">
-                        Botao de carrinho de compras
+                        <button>Botao de carrinho de compras</button>
                     </div>
                 </div>
                 <div className="sidebar">

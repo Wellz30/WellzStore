@@ -9,6 +9,25 @@ export const Home = _ => {
         <div className="pageHome">
             <Container>
                 <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
+                <CardProduct img={iphoneX} description="Iphone X 256gb" price="R$ 2.500,00"/>
             </Container>
         </div>
         
